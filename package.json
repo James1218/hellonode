@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/hellonode/"
+    "url": "https://github.com/jamesyang1218/hellonode/"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "jamesyang1218@gmail.com",
   "license": "ISC"
 }
